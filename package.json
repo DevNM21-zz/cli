@@ -18,7 +18,8 @@
   "homepage": "https://github.com/DevNM21/cli#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.3.1",
+    "myprofile": "^1.0.0"
   },
   "bin": {
     "myprofile": "./app.js"

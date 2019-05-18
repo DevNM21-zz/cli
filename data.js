@@ -1,6 +1,6 @@
 var data = {
   summary:
-    "Hello!! I am Neha from India. I am working as front-end developer. I have 8+ years of experience in the UI domain. Techstack I am working on is - HTML5, CSS3, JavaScript, Reactjs, Nodejs , and I know UI designing tools too. I am active speaker and writer too.",
+    "Hello!! I am Dev from India. I am working as front-end developer. I have 8+ years of experience in the UI domain. Techstack I am working on is - HTML5, CSS3, JavaScript, Reactjs, Nodejs , and I know UI designing tools too. I am active speaker and writer too.",
   aboutme:
     "I am Neha from India. I am working as front-end developer. I have 8+ years of experience in the UI domain. Techstack I am working on is - HTML5, CSS3, JavaScript, Reactjs, Nodejs , and I know UI designing tools too. I am active speaker and writer too.",
   contactme:
